@@ -1,0 +1,12 @@
+train 4 images, use 11.83768105506897 seconds, loss tensor(0.2822, device='cuda:0')
+train 204 images, use 62.33772158622742 seconds, loss tensor(0.3818, device='cuda:0')
+Epoch: 0 tensor(0.3523, device='cuda:0') 88.38875532150269
+train 4 images, use 2.1272664070129395 seconds, loss tensor(0.2488, device='cuda:0')
+train 204 images, use 53.082828760147095 seconds, loss tensor(0.1724, device='cuda:0')
+Epoch: 1 tensor(0.1569, device='cuda:0') 80.12317490577698
+train 4 images, use 2.513134002685547 seconds, loss tensor(0.1035, device='cuda:0')
+train 204 images, use 55.24961447715759 seconds, loss tensor(0.1091, device='cuda:0')
+Epoch: 2 tensor(0.1047, device='cuda:0') 82.66422295570374
+train 4 images, use 2.584597110748291 seconds, loss tensor(0.0800, device='cuda:0')
+train 204 images, use 56.81428146362305 seconds, loss tensor(0.0852, device='cuda:0')
+Epoch: 3 tensor(0.0877, device='cuda:0') 84.74252247810364

@@ -1,0 +1,50 @@
+train 5 images, use 2.3235228061676025 seconds, loss tensor(67.5017, device='cuda:0')
+train 255 images, use 48.44159960746765 seconds, loss tensor(76.9902, device='cuda:0')
+0 tensor(93.3016, device='cuda:0') 67.70283937454224
+*** total 30 error 0 precision 0.0 avgTime 0.12494288285573324
+train 5 images, use 2.2374074459075928 seconds, loss tensor(69.1501, device='cuda:0')
+train 5 images, use 1.910252332687378 seconds, loss tensor(66.0548, device='cuda:0')
+train 5 images, use 2.25500226020813 seconds, loss tensor(81.8241, device='cuda:0')
+train 5 images, use 5.439701318740845 seconds, loss tensor(51.3188, device='cuda:0')
+train 255 images, use 53.82216429710388 seconds, loss tensor(85.1471, device='cuda:0')
+0 tensor(82.5893, device='cuda:0') 68.37785196304321
+*** total 30 error 0 precision 0.0 avgTime 0.09391355514526367
+train 255 images, use 40.78370118141174 seconds, loss tensor(48.8770, device='cuda:0')
+train 5 images, use 2.0782344341278076 seconds, loss tensor(67.6884, device='cuda:0')
+train 255 images, use 43.38925218582153 seconds, loss tensor(71.0309, device='cuda:0')
+0 tensor(70.0091, device='cuda:0') 54.77952790260315
+*** total 30 error 0 precision 0.0 avgTime 0.10512315432230632
+train 255 images, use 43.504239082336426 seconds, loss tensor(89.4934, device='cuda:0')
+1 tensor(80.0319, device='cuda:0') 60.73113656044006
+*** total 30 error 0 precision 0.0 avgTime 0.10664565563201904
+train 255 images, use 49.778985023498535 seconds, loss tensor(26.2381, device='cuda:0')
+2 tensor(25.0250, device='cuda:0') 67.6035852432251
+*** total 30 error 0 precision 0.0 avgTime 0.10637306372324626
+train 5 images, use 2.286679744720459 seconds, loss tensor(20.9663, device='cuda:0')
+train 255 images, use 61.086366176605225 seconds, loss tensor(18.3372, device='cuda:0')
+3 tensor(18.3939, device='cuda:0') 80.7936019897461
+*** total 30 error 0 precision 0.0 avgTime 0.11059768199920654
+train 5 images, use 2.295872926712036 seconds, loss tensor(15.9771, device='cuda:0')
+train 255 images, use 63.42771863937378 seconds, loss tensor(16.4817, device='cuda:0')
+4 tensor(16.5996, device='cuda:0') 81.12430262565613
+*** total 30 error 0 precision 0.0 avgTime 0.1067234754562378
+train 5 images, use 2.3014161586761475 seconds, loss tensor(17.3034, device='cuda:0')
+train 255 images, use 68.1473879814148 seconds, loss tensor(16.4468, device='cuda:0')
+5 tensor(16.4723, device='cuda:0') 87.97122025489807
+*** total 30 error 0 precision 0.0 avgTime 0.11526722113291422
+train 5 images, use 2.472663640975952 seconds, loss tensor(14.9636, device='cuda:0')
+train 255 images, use 68.53977608680725 seconds, loss tensor(16.2738, device='cuda:0')
+6 tensor(16.2616, device='cuda:0') 89.50836491584778
+*** total 30 error 0 precision 0.0 avgTime 0.12070682843526205
+train 5 images, use 2.2916371822357178 seconds, loss tensor(15.4018, device='cuda:0')
+train 255 images, use 70.8638219833374 seconds, loss tensor(16.2404, device='cuda:0')
+7 tensor(16.2341, device='cuda:0') 90.28862619400024
+*** total 30 error 0 precision 0.0 avgTime 0.11918059984842937
+train 5 images, use 2.3719558715820312 seconds, loss tensor(15.7281, device='cuda:0')
+train 255 images, use 70.84556150436401 seconds, loss tensor(16.1865, device='cuda:0')
+8 tensor(16.1766, device='cuda:0') 91.83907461166382
+*** total 30 error 0 precision 0.0 avgTime 0.12088066736857096
+train 5 images, use 2.373758316040039 seconds, loss tensor(16.1291, device='cuda:0')
+train 255 images, use 74.791259765625 seconds, loss tensor(15.8922, device='cuda:0')
+9 tensor(16.0029, device='cuda:0') 94.82428121566772
+*** total 30 error 0 precision 0.0 avgTime 0.11948698361714681
